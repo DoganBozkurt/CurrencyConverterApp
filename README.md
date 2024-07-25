@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The ExchangeRateApp features a basic user inteface built with React.js and connects to an API  to display currency exchange rates.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To be honest this is my first application developed with React.js, and I am so excited to share it. I am continuously
+Working on expanding my skills in new programming languages and frameworks, with React.js being one of technologies
+I'm currently focusing on.
