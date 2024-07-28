@@ -21,6 +21,12 @@
     border-radius: 5px;
 }
 
+.result {
+    color: gold;
+    font-size: large;
+    font-style: inherit;
+}
+
 input:focus {
     border-color: #4a4e82;
     outline: none;
